@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_component_components",
+  "info": {
+    "displayName": "component",
+    "icon": "layer",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

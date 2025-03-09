@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_keywords_keywords",
+  "info": {
+    "displayName": "keywords",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "keyword": {
+      "type": "string",
+      "required": true,
+      "minLength": 3
+    }
+  }
+}
